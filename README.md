@@ -2,11 +2,7 @@
 
 **Author:** semana shema parfait — African Leadership University, Machine Learning summative project
 
-| Deliverable                                                         | Link       |
-| ------------------------------------------------------------------- | ---------- |
-| Report (PDF)                                                        | _add link_ |
-| Google Drive (raw data zip, saved models, W&B and TensorBoard logs) | _add link_ |
-| Video presentation                                                  | _add link_ |
+
 
 ## Problem
 
