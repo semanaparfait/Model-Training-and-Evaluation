@@ -62,12 +62,11 @@ Running the notebook creates `outputs/` with `models/`, `results/`, `figures/`, 
 
 ## Results (held-out test set)
 
-_Fill in after the final run with the full dataset._
 
-| Model                                   | Threshold | Accuracy | Precision | Recall | F1  | ROC-AUC | PR-AUC |
-| --------------------------------------- | --------- | -------- | --------- | ------ | --- | ------- | ------ |
-| Best traditional (HistGradientBoosting) |           |          |           |        |     |         |        |
-| Best deep (embedding network)           |           |          |           |        |     |         |        |
+
+Model	Threshold	Accuracy	Precision	Recall	F1	ROC-AUC	PR-AUC
+Best traditional (HistGradientBoosting)	0.545	0.957	0.920	0.901	0.910	0.983	0.953
+Best deep (embedding network)	0.738	0.933	0.874	0.843	0.858	0.965	0.912
 
 ## Limitations
 
