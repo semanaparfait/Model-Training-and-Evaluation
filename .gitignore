@@ -1,0 +1,26 @@
+# Raw data must not be committed (it lives in the shared Google Drive folder)
+*.csv
+*.zip
+data/
+
+# Model weights and run outputs (also in Google Drive)
+outputs/
+*.joblib
+*.pkl
+*.h5
+*.keras
+saved_model/
+
+# Experiment logs
+wandb/
+tensorboard/
+runs/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
